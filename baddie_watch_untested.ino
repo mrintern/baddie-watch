@@ -1,3 +1,10 @@
+/*
+
+this is untested baddie_watch code, but it probably works. Also it fixes the laser.
+To remove the complaints about memory, comment out the print statements and arrays.
+
+*/
+
 #include <Wire.h>
 #include <SPI.h>
 #include <Adafruit_GFX.h>
