@@ -1,22 +1,16 @@
-TODO
-- make video tutorial
-- fix distance sensor? #include <VL53L0X.h>
-- Should i take our the date/time functionality?
+* Unfinished porject, proceed with caution d00d
 
 # baddie-watch
-Working code for the BAD watch by DSTIKE, along with some fun payloads to try
-out.
+an attempt to fix the BAD WATCH by DSTIKE, and make it usable for non-programmers / hardware hackers
 
 # what is the BAD watch by DSTIKE?
 this: https://dstike.com/products/dstike-bad-watch
 
 ## Why are you doing this
-Because the BAD watch is a great project, but the code is sorta... broken. This
-repo, and THIS_TUTORIAL are meant to make it easier for regular people to use
-the watch without knowing about hardware, or programming.
+Because the BAD watch is a great project, but the code is sorta... broken. Needs some housekeeping.
 Disclaimer:
 * the "distance sensor" won't work with this code
-* the resetting the time requires a bootloader,
+* resetting the time requires a bootloader
 
 ## Requirements
 - DSTIKE bad watch https://dstike.com/products/dstike-bad-watch
@@ -27,15 +21,13 @@ plug your watch into the computer.
 
 
 ## Instructions
-You can watch THIS_TUTORIAL or follow the steps below
-
 ### 1. Open a new Arduino project
 File -> new
 
 ### 2. Set the board to "Arduino Leonardo"
 Tools -> Board -> Arduino Leonardo
 
-### 3. Copy + paste the baddie-watch code into the Arduino IDE
+### 3. Copy + paste the baddie_watch.ino code into the Arduino IDE
 
 ### 4. Download these libraries into your Arduino IDE
 * If your not sure how to import libraries into your Arduino environment, use
