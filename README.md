@@ -1,6 +1,7 @@
 TODO
 - make video tutorial
 - fix distance sensor? #include <VL53L0X.h>
+- Should i take our the date/time functionality?
 
 # baddie-watch
 Working code for the BAD watch by DSTIKE, along with some fun payloads to try
@@ -13,7 +14,9 @@ this: https://dstike.com/products/dstike-bad-watch
 Because the BAD watch is a great project, but the code is sorta... broken. This
 repo, and THIS_TUTORIAL are meant to make it easier for regular people to use
 the watch without knowing about hardware, or programming.
-* Disclaimer: the "distance sensor" won't work with this code, sorry :(
+Disclaimer:
+* the "distance sensor" won't work with this code
+* the resetting the time requires a bootloader,
 
 ## Requirements
 - DSTIKE bad watch https://dstike.com/products/dstike-bad-watch
