@@ -1,4 +1,4 @@
-* Unfinished porject, proceed with caution d00d
+* Unfinished project, proceed with caution d00d
 
 # baddie-watch
 an attempt to fix the BAD WATCH by DSTIKE, and make it usable for non-programmers / hardware hackers
