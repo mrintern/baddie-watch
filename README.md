@@ -3,7 +3,7 @@
 # baddie-watch
 an attempt to fix the BAD WATCH by DSTIKE, and make it usable for non-programmers / hardware hackers
 
-# what is the BAD watch by DSTIKE?
+## what is the BAD watch by DSTIKE?
 this: https://dstike.com/products/dstike-bad-watch
 
 ## Why are you doing this
