@@ -1,5 +1,5 @@
 * Unfinished project, proceed with caution d00d
-
+* Update 4/4/2022: the watch is no longer for sale (likely because it was impossible to change the example code on the watch using the instructions provided on the creators github). If you bought the watch already, hopefully you'll find this attempt at fixing it useful.
 # baddie-watch
 an attempt to fix the BAD WATCH by DSTIKE, and make it usable for non-programmers / hardware hackers
 
